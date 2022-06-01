@@ -7,6 +7,7 @@ To verify if your error is caused by the FiveM asset escrow, you can simply rest
 ## Examples of the errors caused by the FiveM Escrow system
 [ ![Parsing error server console](example_errors_images/error_parsing.png) ](example_errors_images/error_parsing.png)
 [ ![Parsing error client console](example_errors_images/error_parsing_2.png) ](example_errors_images/error_parsing_2.png)
+[ ![Lack entilement](example_errors_images/lack_entitlement.jpg) ](example_errors_images/lack_entitlement.jpg)
 [ ![Parsing error client console](example_errors_images/failed_to_verify_protected_resource.png) ](example_errors_images/failed_to_verify_protected_resource.png)
 
 ## Solutions
