@@ -8,6 +8,7 @@ Error message example:
 * You don't have `.fxap` file in the script folder
 * You are using **Filezilla**
 * Your server hosting is using **Filezilla** to upload the script
+* You are transferring the folder to the VPS file by file, please upload the .zip file and extract it **after** it is already on your VPS (so drag and drop the zip file and **not** the folder)
 
 ## Solutions
 1. Download the script again from [FiveM keymaster](https://keymaster.fivem.net/)

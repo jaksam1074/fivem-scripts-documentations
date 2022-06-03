@@ -6,6 +6,7 @@ Error message **example**:
 
 ## Possible reasons
 * Your server version is too old, the **minimum** version is 4752
+* You are transferring the folder to the VPS file by file, please upload the .zip file and extract it **after** it is already on your VPS (so drag and drop the zip file and **not** the folder)
 
 ## How to verify my server version?
 To verify what server version your server is currently using, you have to use the following command in your FiveM server console: `version`
