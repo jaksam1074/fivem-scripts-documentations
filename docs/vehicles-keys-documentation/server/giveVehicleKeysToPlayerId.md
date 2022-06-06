@@ -16,8 +16,6 @@ exports["vehicles_keys"]:giveVehicleKeysToPlayerId(playerId, plate, type)
 ## Example
 ```lua
 RegisterNetEvent("vehicle_shop:playerBoughtVehicle", function(playerId, plate)
-    local xPlayer = ESX.GetPlayerFromId(playerId)
-
     exports["vehicles_keys"]:giveVehicleKeysToPlayerId(playerId, plate, "owned")
 end)
 ```
