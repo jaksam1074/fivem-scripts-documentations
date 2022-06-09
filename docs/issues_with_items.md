@@ -45,3 +45,8 @@ Before: <br>
 
 After: <br>
 ![After](images/no_can_always_carry_item_after.jpg)
+
+## Step 3
+The item you are working on, must exist to be used in the scripts. To be sure the item exist, you can try to give it to yourself
+
+Creating the item depends on your framework and/or on your inventory, so creating it will be up to you
