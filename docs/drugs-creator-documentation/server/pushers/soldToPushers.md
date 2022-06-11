@@ -1,10 +1,10 @@
-# Sold to NPC
+# Sold to pusher
 
-Triggered after a NPC selling sale
+Triggered after a player sells to narcos
 
 ## Event
 ``` lua
-RegisterNetEvent("advanced_drugs_creator:soldToNPC", function(playerId, drugName, drugQuantity, totalDrugPrice)
+RegisterNetEvent("advanced_drugs_creator:pusher:itemSold", function(playerId, drugName, drugQuantity, totalDrugPrice)
 
 end)
 ```
@@ -20,7 +20,7 @@ end)
 
 ## Example
 ``` lua
-RegisterNetEvent("advanced_drugs_creator:soldToNPC", function(playerId, drugName, drugQuantity, totalDrugPrice)
+RegisterNetEvent("advanced_drugs_creator:pusher:itemSold", function(playerId, drugName, drugQuantity, totalDrugPrice)
     local xPlayer = ESX.GetPlayerFromId(playerId)
 
     local random = math.random(1, 2)
