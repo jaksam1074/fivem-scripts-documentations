@@ -7,7 +7,7 @@ The installation of the script is extremely easy
 1. Download the script and extract it in your resources
 2. Add the script in your auto start (example: server.cfg)
 3. Configure the options in the config files (be sure to read the comments, they'll explain you everything)
-4. (QBCore only) Download and extract [this script](https://cdn.discordapp.com/attachments/895599870268817418/978621080061222912/esx_menu_default.rar) in your resources
+4. (QBCore only) Download and extract [this script](https://cdn.discordapp.com/attachments/895599870268817418/987388095169179688/menu_default.rar) in your resources, **without renaming it**
 
 You are ready to go! Enjoy the script 😁
 
