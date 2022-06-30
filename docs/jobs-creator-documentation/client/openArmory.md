@@ -37,4 +37,10 @@ end)
 ```
 
 ## Where to insert the code?
-You can place it in the file `integrations/cl_integrations.lua` of the script
+You can place it in the file `integrations/cl_integrations.lua` of the script, **at the bottom of the file on new lines**
+
+## OX Inventory
+OX inventory has an easy integration in the file `jobs_creator/integrations/sh_integrations.lua`
+
+## Quasar Inventory
+Quasar Inventory has an easy integration in the file `jobs_creator/integrations/sh_integrations.lua`
