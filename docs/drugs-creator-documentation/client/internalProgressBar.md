@@ -19,7 +19,7 @@ end)
 ## Example
 ``` lua
 -- In advanced_drugs_creator/integrations/cl_integrations.lua
-RegisterNetEvent("jobs_cadvanced_drugs_creatorreator:framework:ready", function() 
+RegisterNetEvent("advanced_drugs_creator:framework:ready", function() 
     -- Disables the default script progress bar (otherwise there would be 2 progress bars)
     exports["advanced_drugs_creator"]:disableScriptEvent("advanced_drugs_creator:internalProgressBar")
 end)
